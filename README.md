@@ -36,12 +36,6 @@ I'm currently developing my programming skills through 42's peer-to-peer learnin
   <img src="https://github-readme-stats.vercel.app/api?username=Joana-pcm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joana-pcm/Joana-pcm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
 ---
 
 ⭐ Thanks for visiting my profile!
